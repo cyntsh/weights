@@ -1,0 +1,1 @@
+Reranking model by [ZeroEntropy](https://huggingface.co/zeroentropy/zerank-1-small).
